@@ -28,4 +28,8 @@ function generatePassword(length, options) {
     return password;
 }
 
+<<<<<<< HEAD
 module.exports = { generatePassword };
+=======
+module.exports = { generatePassword };
+>>>>>>> c283d22ef95eda900ddd4ee838829bfc69c04c56
